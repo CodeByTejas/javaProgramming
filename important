@@ -1,0 +1,8 @@
+Arrays:
+=>colllection of similar data type or object
+=>finite ,ordered and collection of homogenous data items
+int arr[]=new int[10];//array syntax// one dimensional
+arr.length ==>  length of arr of int type //prooperties
+
+arr.length() ==> lenth of string //function
+
