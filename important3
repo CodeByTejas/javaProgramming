@@ -1,0 +1,35 @@
+String Handling Function
+string Manipulation:
+Sequence of character placed in double"" quotes.
+perfroming operation on that is known as string handling
+
+java.lang.string
+java.lang.stringBuffer
+java.lang.stringBuilder
+java.util.StringTokenizer
+
+ways of string declaration
+string literal
+using new keyword
+
+GARBAGE COLLECTOR IS USED TO DELETE THE UNREFERENCED DATA 
+
+Exception Handling
+The process of catching the Exception for converting JVM given 
+Exception memssage to end-user understandable message or for 
+stopping abnormal termination of the program is callled Exception handling.
+
+reasons
+developer mistakes
+end user input mistakes
+resource not available
+
+
+
+
+
+
+
+
+
+
